@@ -41,4 +41,6 @@ A list of articles, links, etc that I found useful and did not want to lose over
 
 ### Other
 
+- https://github.com/pomber/didact - Guide to build your own React
+
 - https://overreacted.io/ - Dan Abramov's blog

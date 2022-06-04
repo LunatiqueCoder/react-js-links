@@ -10,6 +10,8 @@ A list of articles, links, etc that I found useful and did not want to lose over
 
 - https://github.com/typescript-cheatsheets/react
 
+- https://github.com/basarat/typescript-book
+
 ### JSX:
 
 - Introducing JSX: https://reactjs.org/docs/introducing-jsx.html

@@ -37,6 +37,9 @@ A list of articles, links, etc that I found useful and did not want to lose over
 ### Virtual DOM:
 - https://javascript.plainenglish.io/react-the-virtual-dom-comprehensive-guide-acd19c5e327a
 
+### Fiber
+- https://github.com/acdlite/react-fiber-architecture
+
 ### Redux
 - https://github.com/markerikson/react-redux-links
 

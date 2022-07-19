@@ -43,6 +43,10 @@ A list of articles, links, etc that I found useful and did not want to lose over
 ### Redux
 - https://github.com/markerikson/react-redux-links
 
+### Videos
+
+- https://www.youtube.com/watch?v=tv-_1er1mWI - 10 Design Patterns Explained in 10 minutes
+
 
 ### Other
 

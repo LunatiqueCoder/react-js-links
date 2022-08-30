@@ -42,6 +42,7 @@ A list of articles, links, etc that I found useful and did not want to lose over
 
 ### Redux
 - https://github.com/markerikson/react-redux-links
+- https://medium.com/async/how-useselector-can-trigger-an-update-only-when-we-want-it-to-a8d92306f559
 
 ### Videos
 

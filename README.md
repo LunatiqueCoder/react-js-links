@@ -40,6 +40,9 @@ A list of articles, links, etc that I found useful and did not want to lose over
 ### Fiber
 - https://github.com/acdlite/react-fiber-architecture
 
+### Concurrent Mode
+- https://www.youtube.com/watch?v=V1Ly-8Z1wQA
+
 ### Redux
 - https://github.com/markerikson/react-redux-links
 - https://blog.isquaredsoftware.com/2018/11/react-redux-history-implementation/

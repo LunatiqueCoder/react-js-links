@@ -53,6 +53,10 @@ A list of articles, links, etc that I found useful and did not want to lose over
 - Security: https://www.callstack.com/blog/secure-your-react-native-app
 - Ultimate guide to React Native optimization by Callstack: https://www.callstack.com/blog/shipping-fast-with-continuous-deployment
 
+### Security
+
+- https://pauljerimy.com/security-certification-roadmap/
+
 ### Videos
 
 - https://www.youtube.com/watch?v=tv-_1er1mWI - 10 Design Patterns Explained in 10 minutes

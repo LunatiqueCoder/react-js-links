@@ -71,4 +71,6 @@ A list of articles, links, etc that I found useful and did not want to lose over
 
 - https://overreacted.io/ - Dan Abramov's blog
 
+- https://www.patterns.dev/posts/react-server-components/ - React Server Components
+
 - https://javascript.plainenglish.io/9-bad-programming-practices-every-programmer-should-know-to-avoid-36fc4eb633db

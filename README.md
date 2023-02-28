@@ -6,6 +6,9 @@ A list of articles, links, etc that I found useful and did not want to lose over
 
 - https://github.com/leonardomso/33-js-concepts - 33 JavaScript concepts every developer should know
 
+- https://dev.to/lydiahallie/series/3341 - JavaScript Visualised by Lydia Hallie
+
+
 ### TypeScript
 
 - https://github.com/typescript-cheatsheets/react
@@ -55,7 +58,7 @@ A list of articles, links, etc that I found useful and did not want to lose over
 
 ### Security
 
-- https://pauljerimy.com/security-certification-roadmap/
+- https://pauljerimy.com/security-certification-roadmap/ - Security Certification Roadmap
 
 ### Videos
 

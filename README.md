@@ -15,13 +15,18 @@ A list of articles, links, etc that I found useful and did not want to lose over
 
 - https://github.com/basarat/typescript-book
 
+## React
+
+ -  React 18 - Glossary + explain like I'm finehttps://github.com/reactwg/react-18/discussions/46
+
+
 ### JSX:
 
 - Introducing JSX: https://reactjs.org/docs/introducing-jsx.html
 	
 - JSX In Depth: https://reactjs.org/docs/jsx-in-depth.html
 
-
+## React 
 ### Hooks:
 - Introduction: https://reactjs.org/docs/hooks-intro.html
 
